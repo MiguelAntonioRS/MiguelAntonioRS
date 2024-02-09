@@ -28,8 +28,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" title="NetBeans" alt="NetBeans" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code" alt="VSC" height="40" width="40">
 </div>
+
+
 ---
-###  My Stats
+###  My Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguel%20Antonio&theme=dracula&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
