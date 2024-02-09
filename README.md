@@ -35,6 +35,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguel%20Antonio&theme=dracula&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAntonio&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAntonioRS&layout=compact)
