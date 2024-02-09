@@ -1,4 +1,5 @@
-img<https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP/>
+![giphy](https://github.com/MiguelAntonioRS/MiguelAntonioRS/assets/159189630/9f3348ee-01dd-4e57-a199-43a962a9a1ff)
+
 ### Hi there 👋
 
 <!--
