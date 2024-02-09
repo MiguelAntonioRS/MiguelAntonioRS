@@ -31,7 +31,7 @@
 
 
 ---
-###  My Stats:
+###  📊 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguel%20Antonio&theme=dracula&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
