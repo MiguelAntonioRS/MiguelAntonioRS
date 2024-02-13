@@ -1,8 +1,7 @@
 <div id="header" aling="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI5cGg2NmYxN3AyejdwcGgxZnVqcHNyd3Bkcmt3bjJiZmd5N3N4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200">
     <h1 aling="center">Hello 👋 i'm Miguel Antonio</h1>
-    <h3 aling="center">Soy un Desarrollador cubano especializado en Java, aunque se muchas otras tecnologias como HTML, CSS, JavaScript etc... mi lema es "Nunca me rindo".
-        ___
+    <h3 aling="center">Soy un Desarrollador cubano especializado en Java, aunque se muchas otras tecnologias como HTML, CSS, JavaScript etc... mi lema es "Nunca me rindo".<br>
         I am a Cuban Developer specialized in Java, although I know many other technologies like HTML, CSS, JavaScript etc..., my motto is "I never give up."
     </h3>
 </div>
