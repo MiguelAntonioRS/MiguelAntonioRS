@@ -7,12 +7,12 @@
 </div>
 
 ---
-### 👨‍💻 Acerca de mi, About me
+### 🧑🏻‍💻 Acerca de mi, About me
 
-- 🔭 Soy Universitario
+- 📝 Soy Universitario
 - 🌱 Estoy Aprendiendo SpringBoot ahora
-- 👯 Me encanta Java
-- 🤔 Estudio y Programo mucho
+- ❤️ Me encanta Java
+- 🔭 Estudio y Programo mucho
 - ⚡ Aprendo Rapido
 
 <div aling="center">
