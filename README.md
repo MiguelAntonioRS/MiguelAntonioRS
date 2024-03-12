@@ -28,6 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" title="springboot" alt="springboot" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="II" alt="II" height="40" width="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" title="NetBeans" alt="NetBeans" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4GS75gUjYu6OeOvrrXGKxgiMCW_hH2ERMHP3bi7Xxg&s" title="NetBeans" alt="NetBeans" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code" alt="VSC" height="40" width="40">
 </div>
 
