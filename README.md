@@ -19,7 +19,7 @@
     <h3>Lenguaje y Herramienta, Languages and Tools</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" title="Python" alt="Python" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" title="Python" alt="Python" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" title="HTML" alt="HTML5" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="Git" height="40" width="40">
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" title="springboot" alt="springboot" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="II" alt="II" height="40" width="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" title="NetBeans" alt="NetBeans" width="40" height="40">
-    <img src="https://www.c-sharpcorner.com/article/how-to-install-visual-studio-code/Images/How%20to%20Install%20Visual%20Studio%20Code.png" title="NetBeans" alt="NetBeans" width="40" height="40">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" title="VisualSCode" alt="VisualSCode" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code" alt="VSC" height="40" width="40">
 </div>
 
