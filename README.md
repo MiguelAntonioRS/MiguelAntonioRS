@@ -6,7 +6,7 @@
 </div>
 
 ---
-### 👨‍💻 Acerca de mi, About me
+### 👨‍💻 About me
 
 - 📝 I am a university student
 - 🌱 I'm Learning SpringBoot now
