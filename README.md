@@ -10,7 +10,7 @@
 
 - 📝 I am a university student
 - 🌱 I'm Learning SpringBoot now
-- ❤️ Me encanta Java
+- ❤️ I love JAVA
 - 🔭 Estudio y Programo mucho
 - ⚡ Aprendo Rapido 
 
