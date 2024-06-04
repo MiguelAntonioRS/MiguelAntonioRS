@@ -11,7 +11,7 @@
 - 📝 I am a university student
 - 🌱 I'm Learning SpringBoot now
 - ❤️ I love JAVA
-- 🔭 Estudio y Programo mucho
+- 🔭 I study and program a lot
 - ⚡ Aprendo Rapido 
 
 <div aling="center">
