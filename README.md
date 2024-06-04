@@ -12,7 +12,7 @@
 - 🌱 I'm Learning SpringBoot now
 - ❤️ I love JAVA
 - 🔭 I study and program a lot
-- ⚡ Aprendo Rapido 
+- ⚡ I learn fast 
 
 <div aling="center">
     <h3>Languages and Tools</h3>
