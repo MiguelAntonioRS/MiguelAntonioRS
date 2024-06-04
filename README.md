@@ -15,7 +15,7 @@
 - ⚡ Aprendo Rapido 
 
 <div aling="center">
-    <h3>Lenguaje y Herramienta, Languages and Tools</h3>
+    <h3>Languages and Tools</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" title="Python" alt="Python" width="40" height="40">
