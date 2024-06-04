@@ -9,7 +9,7 @@
 ### 👨‍💻 Acerca de mi, About me
 
 - 📝 I am a university student
-- 🌱 Estoy Aprendiendo SpringBoot ahora
+- 🌱 I'm Learning SpringBoot now
 - ❤️ Me encanta Java
 - 🔭 Estudio y Programo mucho
 - ⚡ Aprendo Rapido 
