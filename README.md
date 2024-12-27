@@ -47,3 +47,4 @@
 ###  📊 My Stats:
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=dark)](https://git.io/streak-stats)
