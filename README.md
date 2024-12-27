@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI5cGg2NmYxN3AyejdwcGgxZnVqcHNyd3Bkcmt3bjJiZmd5N3N4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI5cGg2NmYxN3AyejdwcGgxZnVqcHNyd3Bkcmt3bjJiZmd5N3N4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" class="text-center">
     <h1 aling="center">Hello 👋 i'm Miguel Antonio</h1>
     <h3 aling="center">I am a Cuban Developer specialized in Java with framework such as Spring Boot, although I know many other technologies such as HTML, CSS, JavaScript, Python, Django etc... my motto is "I never give up".
     </h3>
@@ -47,4 +47,4 @@
 ###  📊 My Stats:
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical)](https://git.io/streak-stats)
