@@ -9,7 +9,7 @@
 ### 👨‍💻 About me
 
 - 📝 I am a university student
-- 🌱 I'm Learning Django now
+- 🌱 I'm Currently Learning Odoo, React and Docker right now
 - ❤️ I love JAVA
 - 🔭 I study and program a lot
 - ⚡ I learn fast 
