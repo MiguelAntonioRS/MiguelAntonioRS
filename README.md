@@ -46,8 +46,5 @@
 ---
 ###  📊 My Stats:
 
-<div style="display: flex; gap: 10px;">
-    ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical)
-    [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical)](https://git.io/streak-stats)
-</div>
-
+| ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical)](https://git.io/streak-stats) |
+| --- | --- |
