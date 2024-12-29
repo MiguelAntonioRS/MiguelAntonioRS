@@ -37,6 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" title="NetBeans" alt="NetBeans" width="40" height="40">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" title="VisualSCode" alt="VisualSCode" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code" alt="VSC" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" title="UML" alt="UML" height="40" width="40">
