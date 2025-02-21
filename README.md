@@ -4,7 +4,7 @@
     <h3 aling="center">I am a Cuban Developer specialized in Java with framework such as Spring Boot, although I know many other technologies such as HTML, CSS, JavaScript, Python, Django etc... my motto is "I never give up".
     </h3>
 </div>
-
+ 
 --- 
 ### 👨‍💻 About me
 
