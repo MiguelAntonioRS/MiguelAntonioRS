@@ -9,7 +9,7 @@
 ### 👨‍💻 About me
 
 - 📝 I am a university student
-- 🌱 I'm Currently Learning Odoo and React right now
+- 🌱 I'm Currently Learning React right now
 - ❤️ I love JAVA
 - 🔭 I study and program a lot
 - ⚡ I learn fast 
