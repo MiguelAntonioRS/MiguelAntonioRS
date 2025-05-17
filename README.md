@@ -8,11 +8,11 @@
 --- 
 ### 👨‍💻 About me
 
-- 📝 I am a university student
+- 📝 I am a Computer Engineering Student
 - 🌱 I'm Currently Learning React right now
-- ❤️ I love JAVA
-- 🔭 I study and program a lot
-- ⚡ I learn fast 
+- ❤️ I Love JAVA
+- 🔭 I Study and Program a lot
+- ⚡ I Learn Fast 
 
 <div aling="center">
     <h3>Languages and Tools</h3>
