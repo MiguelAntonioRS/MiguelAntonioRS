@@ -8,7 +8,7 @@
 --- 
 ### 👨‍💻 About me
  
-- 📝 I am a Computer Engineering Student
+- 📝 I am a Computer Engineering
 - 🌱 I'm Currently Learning React right now
 - ❤️ I Love JAVA
 - 🔭 I Study and Program a lot
