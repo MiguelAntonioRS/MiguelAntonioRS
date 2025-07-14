@@ -11,7 +11,7 @@
 - 📝 I am a Computer Engineering
 - 🌱 I'm Currently Learning React right now
 - ❤️ I Love JAVA
-- 🔭 I Study and Program a lot
+- 🔭 I Study and Program a lot 
 - ⚡ I Learn Fast 
 
 <div aling="center">
