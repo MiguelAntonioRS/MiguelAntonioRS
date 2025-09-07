@@ -50,10 +50,10 @@
 ### 📊 My Stats
 
 <div align="center">
-  <a href="https://github.com/MiguelAntonioRS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" />
-  </a>
+
+| [![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true)](https://github.com/MiguelAntonioRS) | [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true)](https://git.io/streak-stats) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+
 </div>
 
 <br>
