@@ -59,6 +59,6 @@
 <br>
 
 <div align="center">
-  <h3>📈 My Activity in 2025</h3>
+  <h3>📈 My Recently Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAntonioRS&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff&bg_color=0d1117" />
 </div>
