@@ -49,8 +49,12 @@
 
 ### 📊 My Stats
 
-| ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true) |
-|:--:|:--:|
+<div align="center">
+
+| [![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true)](https://github.com/MiguelAntonioRS) | [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true)](https://git.io/streak-stats) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+</div>
 
 <br>
 
