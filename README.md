@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUyOWdhbGEzcDFtNGxka2pxOGxjZzRnaGRpYXkxMXViOXdsMWExdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" width="200">
   <h1 align="center">Hello 👋 I'm Miguel Antonio</h1>
   <h3 align="center">Cuban Developer specialized in Java & Spring Boot | Passionate about building efficient solutions | "I never give up"</h3>
 </div>
