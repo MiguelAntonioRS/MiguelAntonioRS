@@ -107,7 +107,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-miguel-r.vercel.app)
 
 </div>
-
-<div align="center">
-  <sub>Built with ❤️ by Miguel Antonio</sub>
-</div>
