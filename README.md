@@ -84,14 +84,27 @@
 
 <div align="center">
 
-| [![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true)](https://github.com/MiguelAntonioRS) | [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true)](https://git.io/streak-stats) |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/followers/MiguelAntonioRS?style=for-the-badge&logo=github&label=Followers&color=6366F1" alt="Followers"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/MiguelAntonioRS?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Stats detalladas -->
+<img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+<div>
   <h3>📈 Recent Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAntonioRS&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff&bg_color=0d1117" alt="Activity Graph" />
 </div>
