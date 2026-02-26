@@ -82,6 +82,12 @@
     <td>
       <img src="https://img.shields.io/github/stars/MiguelAntonioRS?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
     </td>
+    <!-- Ranking Badge -->
+    <td align="center">
+      <a href="https://committers.top/cuba" target="_blank">
+        <img src="https://user-badge.committers.top/cuba/MiguelAntonioRS.svg" />
+      </a>
+    </td>
   </tr>
 </table>
 
