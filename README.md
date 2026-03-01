@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🤓 **Backend Developer** from Holguín, Cuba 🇨🇺 | Computer Engineering graduate @UHO (2020-2025)
+- 🤓 **Developer** from Holguín, Cuba 🇨🇺 | Computer Engineering graduate @UHO (2020-2025)
 - 💬 Experienced in building **REST APIs, microservices & enterprise systems** with **Java & Spring Boot**
 - 🎨 Comfortable across the stack: **HTML, CSS, JavaScript, Python, Django** | Currently leveling up with **React** ⚛️
 - ⚙️ Passionate about **clean architecture, security (Spring Security) and scalable solutions**
