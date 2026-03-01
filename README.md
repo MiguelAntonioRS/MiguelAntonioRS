@@ -72,31 +72,30 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/github/followers/MiguelAntonioRS?style=for-the-badge&logo=github&label=Followers&color=6366F1" alt="Followers"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/github/stars/MiguelAntonioRS?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
     </td>
-    <td>
+    <td align="center">
       <a href="https://committers.top/cuba" target="_blank">
         <img src="https://user-badge.committers.top/cuba/MiguelAntonioRS.svg" alt="Committers Rank"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
     </td>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics"/>
     </td>
   </tr>
 </table>
+
 
 <br/>
 
