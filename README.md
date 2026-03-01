@@ -6,56 +6,66 @@
 
 ---
 
-## 🚀 Technologies & Tools
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>DevOps</th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" alt="Angular"/>
-          <img src="https://blog.softtek.com/hubfs/thymeleaf.png" height="50" alt="Thymeleaf"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" alt="Spring"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" alt="Django"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" alt="Express.js"/>
-          <img src="https://logodix.com/logo/2007040.png" height="50" alt="Kafka"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB"/>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/github/github-original.svg" height="50" alt="GitHub"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/postman/postman-original.svg" height="50" alt="Postman"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/maven/maven-original.svg" height="50" alt="Maven"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" alt="Kubernetes"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" alt="GitLab"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</div>
+
+#### 🌐 Frontend
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=html5&logoColor=white" alt="Thymeleaf">
+</div>
+
+#### ⚙️ Backend & Frameworks
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
+</div>
+
+#### 🗄️ Databases
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra">
+</div>
+
+#### 🧰 Tools & DevOps
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/UML-00599C?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
+</div>
+
+#### 💻 IDEs & Editors
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=FE315D" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=24D67A" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
 </div>
 
 ---
