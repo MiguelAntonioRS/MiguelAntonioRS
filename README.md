@@ -25,7 +25,7 @@
           <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
           <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS"/>
           <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" alt="Angular"/>
-          <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fblog.softtek.com%2Fes%2Fthymeleaf&ved=0CBYQjRxqFwoTCKj24vzI_5IDFQAAAAAdAAAAABAI&opi=89978449" height="50" alt="Thymeleaf"/>
+          <img src="https://blog.softtek.com/hubfs/thymeleaf.png" height="50" alt="Thymeleaf"/>
           <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
         </div>
       </td>
@@ -36,20 +36,19 @@
           <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python"/>
           <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" alt="Django"/>
           <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" alt="Express.js"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/apachekafka-original.svg" height="50" alt="Kafka"/>
+          <img src="https://logodix.com/logo/2007040.png" height="50" alt="Kafka"/>
           <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
           <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/>
           <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/cassandra-original.svg" height="50" alt="Cassandra"/>
         </div>
       </td>
       <td>
         <div align="center">
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" alt="GitHub"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/github/github-original.svg" height="50" alt="GitHub"/>
           <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/postman-original.svg" height="50" alt="Postman"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/maven-original.svg" height="50" alt="Maven"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/postman/postman-original.svg" height="50" alt="Postman"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/maven/maven-original.svg" height="50" alt="Maven"/>
           <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux"/>
           <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" alt="Kubernetes"/>
           <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" alt="GitLab"/>
