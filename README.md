@@ -82,23 +82,21 @@
     <td>
       <img src="https://img.shields.io/github/stars/MiguelAntonioRS?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
     </td>
-    <td align="center">
+    <td>
       <a href="https://committers.top/cuba" target="_blank">
-        <img src="https://user-badge.committers.top/cuba/MiguelAntonioRS.svg" />
+        <img src="https://user-badge.committers.top/cuba/MiguelAntonioRS.svg" alt="Committers Rank"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      <br/>
-      <!-- Stats lado a lado -->
+    <td>
       <img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
+    </td>
+    <td colspan="2">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics"/>
     </td>
   </tr>
 </table>
-
-</div>
 
 <br/>
 
