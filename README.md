@@ -82,29 +82,28 @@
     <td>
       <img src="https://img.shields.io/github/stars/MiguelAntonioRS?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
     </td>
-    <!-- Ranking Badge -->
     <td align="center">
       <a href="https://committers.top/cuba" target="_blank">
         <img src="https://user-badge.committers.top/cuba/MiguelAntonioRS.svg" />
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br/>
+      <!-- Stats lado a lado -->
+      <img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<!-- Stats detalladas -->
-<img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
-<td align="center" style="padding: 10px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
-</td>
 
 </div>
 
 <br/>
 
 <div>
-  <h3>📈 Recent Activity</h3>
+  <h3 align="center">📈 Recent Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAntonioRS&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff&bg_color=0d1117" alt="Activity Graph" />
 </div>
 
