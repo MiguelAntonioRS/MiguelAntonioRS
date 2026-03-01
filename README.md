@@ -95,6 +95,9 @@
 
 <!-- Stats detalladas -->
 <img src="https://streak-stats.demolab.com?user=MiguelAntonioRS&theme=radical&hide_border=true" alt="Streak"/>
+<td align="center" style="padding: 10px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelAntonioRS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
+</td>
 
 </div>
 
