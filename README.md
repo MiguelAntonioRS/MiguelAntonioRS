@@ -4,6 +4,21 @@
   <h3 align="center">Cuban Developer specialized in Java & Spring Boot | Passionate about building efficient solutions | "I never give up"</h3>
 </div>
 
+## 👨‍💻 About Me
+
+- 🤓 **Backend Developer** from Holguín, Cuba 🇨🇺 | Computer Engineering graduate @UHO (2020-2025)
+- 💬 Experienced in building **REST APIs, microservices & enterprise systems** with **Java & Spring Boot**
+- 🎨 Comfortable across the stack: **HTML, CSS, JavaScript, Python, Django** | Currently leveling up with **React** ⚛️
+- ⚙️ Passionate about **clean architecture, security (Spring Security) and scalable solutions**
+- 📧 Implemented **password reset flows, email integration (Spring Mail) and real-time features**
+- 🐳 Familiar with **Docker, Git, Maven, Kafka** and basic cloud deployment
+- 🤝 **~4 years** of experience crafting:
+  - Management systems 🏢
+  - E-commerce platforms 🛒
+  - Real-time applications ⚡
+  - Open-source contributions 🌍
+- 🎯 Currently: Building in public, learning React, and seeking to contribute to **Java/Spring Boot open-source projects**
+
 ---
 
 ### 🛠️ Tech Stack
