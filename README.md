@@ -25,7 +25,7 @@
           <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
           <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS"/>
           <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" alt="Angular"/>
-          <img src="https://profilinator.rishav.dev/skills-assets/thymeleaf-original.svg" height="50" alt="Thymeleaf"/>
+          <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fblog.softtek.com%2Fes%2Fthymeleaf&ved=0CBYQjRxqFwoTCKj24vzI_5IDFQAAAAAdAAAAABAI&opi=89978449" height="50" alt="Thymeleaf"/>
           <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
         </div>
       </td>
