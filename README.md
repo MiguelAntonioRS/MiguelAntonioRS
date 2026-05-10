@@ -11,7 +11,7 @@
 - 🎨 Comfortable across the stack: **HTML, CSS, JavaScript, Python, Django** | Currently leveling up with **React** ⚛️
 - ⚙️ Passionate about **clean architecture, security (Spring Security) and scalable solutions**
 - 📧 Implemented **password reset flows, email integration (Spring Mail) and real-time features**
-- 🐳 Familiar with **Docker, Git, Maven, Kafka** and basic cloud deployment
+- 🐳 Familiar with **Docker, Git, Maven, Kafka** and cloud deployment
 - 🤝 **~4 years** of experience crafting:
   - Management systems 🏢
   - E-commerce platforms 🛒
